@@ -1,8 +1,8 @@
 # Module 1 -- Create a Block Chain
 
-#installind libraries 
+#installed libraries 
 # pip install flask==0.12.2
-# install postman
+# install postman app
 
 
 #importing libraries
