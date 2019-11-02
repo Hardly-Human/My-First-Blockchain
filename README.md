@@ -1,1 +1,3 @@
 # My-First-Blockchain
+
+This is code of a block chain network which enables user to mine blocks and add them to the block chain....
